@@ -1,45 +1,39 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos2-59_LeetCode_Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0043030  |  Renann de Oliveira Gomes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Desafios resolvidos do LeetCode 
+
+
+| Problema | Descrição                    | Nível de Dificuldade |
+|----------|-------------------------------|-----------------------|
+| 664     | Strange printer | Difícil                |
+| 655     | Print Binary Tree | Média                |
+| 2646     | Minimize The Total Price of the Trips | Difícil               |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Desafio 664
+
+![image](664-Hard/images/accepted.png)
+
+Desafio 655 
+
+![image](655-Medium/images/sub_882_succes.png)
+
+Desafio 2646
+
+![image](2646-Hard/images/accepted.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Ao final do script descomente a linha que tem o caso de teste que deseja ver e execute no terminal "python {caminho_solucao_}.py"
