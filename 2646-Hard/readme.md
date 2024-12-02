@@ -36,3 +36,5 @@ For the 1st trip, we choose path [0]. The price sum of that path is 1.
 The total price sum of all trips is 1. It can be proven, that 1 is the minimum answer that we can achieve.
 
 ## Submissões:
+
+![image](./images/submission_accepted.png)
