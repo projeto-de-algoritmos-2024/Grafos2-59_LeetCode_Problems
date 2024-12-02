@@ -22,15 +22,15 @@ Desafios resolvidos do LeetCode
 
 Desafio 664
 
-![image](664-Hard/images/accepted.png)
+![image](664-Medium/images/submission_accepted.png)
 
 Desafio 655 
 
-![image](655-Medium/images/sub_882_succes.png)
+![image](655-Hard/images/submission_accepted.png)
 
 Desafio 2646
 
-![image](2646-Hard/images/accepted.png)
+![image](2646-Hard/images/submission_accepted.png)
 
 ## Instalação 
 **Linguagem**: python<br>
